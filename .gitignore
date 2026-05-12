@@ -1,0 +1,22 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 向量数据库
+chroma_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 模型文件（如果下载到本地）
+*.bin
+*.gguf
+
+# 本地配置
+.env
+
+# IDE
+.vscode/
+.idea/
